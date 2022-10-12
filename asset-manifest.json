@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.73f3b5e2.css",
-    "main.js": "/static/js/main.25f45513.js",
+    "main.js": "/static/js/main.cf1ac7c7.js",
     "static/media/video.mp4": "/static/media/video.64cbb5c6697ff94e1bbe.mp4",
     "static/media/animation_640_l783bpzt.gif": "/static/media/animation_640_l783bpzt.8b7dd5827c6889616eee.gif",
     "static/media/svg-1.svg": "/static/media/svg-1.0265589f7b1b518e071294eff9133072.svg",
+    "static/media/undraw_factory_dy-0-a.svg": "/static/media/undraw_factory_dy-0-a.6446543c60443e6fa1d08d947acbfb96.svg",
+    "static/media/undraw_ideation_re_8i2h.svg": "/static/media/undraw_ideation_re_8i2h.d997a7676f29df576923465873a5fe6b.svg",
+    "static/media/undraw_stock_prices_re_js33.svg": "/static/media/undraw_stock_prices_re_js33.660eb4e364847877277f3926371984ae.svg",
+    "static/media/undraw_online_resume_re_ru7s.svg": "/static/media/undraw_online_resume_re_ru7s.11286fa7c5a99511404cee119bddfe56.svg",
+    "static/media/undraw_pitching_re_fpgk.svg": "/static/media/undraw_pitching_re_fpgk.1f89f05d0a4cf36cc1c6904ee5e44ba5.svg",
     "index.html": "/index.html",
     "main.73f3b5e2.css.map": "/static/css/main.73f3b5e2.css.map",
-    "main.25f45513.js.map": "/static/js/main.25f45513.js.map"
+    "main.cf1ac7c7.js.map": "/static/js/main.cf1ac7c7.js.map"
   },
   "entrypoints": [
     "static/css/main.73f3b5e2.css",
-    "static/js/main.25f45513.js"
+    "static/js/main.cf1ac7c7.js"
   ]
 }
